@@ -135,13 +135,7 @@
 
 ###
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnndriuuW/AnndriuuW/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnndriuuW/AnndriuuW/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnndriuuW/AnndriuuW/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<img align="center" src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg">
 
 ###
 
